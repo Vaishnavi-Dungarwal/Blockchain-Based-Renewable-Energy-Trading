@@ -78,6 +78,3 @@
   12. After a timeout, the latest bid value along with buyer’s and seller’s address are fed into the Blockchain using the Smart Contract.
   13. Corresponding crypto-currency (Ether) are sent from the buyer’s account to the seller’s account for every KWH power consumed by the buyer.
   14. All these actions in the software are coupled with the demo hardware, for example, depending on the state of transcation between two entities, the serial ports of the machines command microcontrollers present inside the Energy Meters to toggle the relays.
-
-### 6. Hardware Demonstration Video
-[![Demo Video](https://img.youtube.com/vi/n_nGin9eMWw/0.jpg)](https://www.youtube.com/watch?v=n_nGin9eMWw)
